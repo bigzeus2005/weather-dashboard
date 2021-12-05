@@ -1,0 +1,29 @@
+* html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  background-color: dodgerblue;
+  color: white;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.container {
+  margin: 20px;
+}
+
+form {
+  border-bottom: solid black 1px;
+}
+
+#search-btn {
+  margin-bottom: 10px;
+}
+
+#current-weather {
+  border: solid black 1px;
+}
